@@ -1,0 +1,3 @@
+catch nagios log to split alert msg
+
+use oapi from dingtalk to send alert msg to admin
