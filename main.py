@@ -3,8 +3,8 @@
 * 
 * @author David
 * Version 1.0 , 2017-06-23
-
 """
+# !/usr/bin/env python3
 import re
 import time , datetime
 import requests
